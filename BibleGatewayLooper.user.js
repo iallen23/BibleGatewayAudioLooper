@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         BibleGateway Loop Toggle (Labeled + Persistent)
+// @name         BibleGatewayLooper.user.js
 // @namespace    http://tampermonkey.net/
-// @version      1.6
-// @description  Adds a labeled, persistent loop toggle to BibleGateway audio. Minimal but informative UI with no background box. Auto-reinits as needed.
+// @version      1.0
+// @description  Adds a loop toggle to BibleGateway audio.
 // @author       Ivan Allen
 // @match        https://www.biblegateway.com/*
 // @grant        none
