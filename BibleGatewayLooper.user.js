@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         BibleGatewayLooper.user.js
+// @name         BibleGatewayLooper
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Adds a loop toggle to BibleGateway audio.
